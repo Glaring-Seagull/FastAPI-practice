@@ -3,7 +3,7 @@ Simple API to demostrate using FastAPI to do simple GET, POST, DELETE, and PUT f
 
 This was made to be run by Uvicorn
 
-THIS IS NOT PRODUCTION READ AS IS!! ONLY USE FOR PEROSNAL PROJECTS OR AS A STARTING BASE!!
+THIS IS NOT PRODUCTION READY AS IS!! ONLY USE FOR PEROSNAL PROJECTS OR AS A STARTING BASE!!
 
 You can start the API using Uvicorn
 
